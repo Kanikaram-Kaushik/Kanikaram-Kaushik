@@ -8,7 +8,7 @@ algorithms, full-stack TypeScript/JavaScript, and applied GenAI — and shipping
 - 🔭 **Building:** a RAG-based cyber-threat-intelligence chatbot, and predictive cyber defense systems
 - 🌱 **Learning:** DSA for interviews, system design, and ML fundamentals
 - 🎯 **Goal:** an SDE role where I can bring an ML edge
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/kanikaram-kaushik-b3650532a/) · [Email](mailto:kanikaramkaushik@gmail.com) · [LeetCode](https://leetcode.com/u/kanikaram_kaushik/)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/kanikaram-kaushik-b3650532a/) · [Email (kanikaramkaushik@gmail.com)](https://mail.google.com/mail/?view=cm&fs=1&to=kanikaramkaushik@gmail.com) · [LeetCode](https://leetcode.com/u/kanikaram_kaushik/)
 
 ### 🛠️ Tech I work with
 `Java` · `TypeScript` · `JavaScript` · `Python` · `Node.js` · `React` · `FastAPI` · `MongoDB` · `Git` · `Linux`
