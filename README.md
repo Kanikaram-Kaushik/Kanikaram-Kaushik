@@ -19,5 +19,15 @@ algorithms, full-stack TypeScript/JavaScript, and applied GenAI — and shipping
 | **[Threat-Intel RAG Chatbot](https://github.com/Kanikaram-Kaushik/CTI)** | Answers cyber-threat questions using a RAG pipeline over structured security knowledge bases (MITRE ATT&CK). |
 | **[Predictive Cyber Defense](https://github.com/Kanikaram-Kaushik/Predictive-Cyber-Defense-System)** | Browser-based simulation of common web attacks & defenses, built with vanilla JS/CSS/HTML. |
 
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanikaram-Kaushik&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanikaram-Kaushik&layout=compact&hide_border=true)
+---
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <a href="https://github.com/Kanikaram-Kaushik">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kanikaram-Kaushik&show_icons=true&theme=tokyonight" alt="Kaushik's GitHub stats" width="48%" />
+  </a>
+  <a href="https://github.com/Kanikaram-Kaushik">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kanikaram-Kaushik&layout=compact&theme=tokyonight" alt="Top languages" width="45%" />
+  </a>
+</p>
