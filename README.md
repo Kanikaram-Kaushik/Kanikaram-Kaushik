@@ -21,13 +21,17 @@ algorithms, full-stack TypeScript/JavaScript, and applied GenAI — and shipping
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Metrics
 
-<p align="left">
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/Kanikaram-Kaushik" alt="Kaushik's Github Contribution Chart" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Kanikaram-Kaushik">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kanikaram-Kaushik&show_icons=true&theme=tokyonight" alt="Kaushik's GitHub stats" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanikaram-Kaushik&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
   </a>
   <a href="https://github.com/Kanikaram-Kaushik">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kanikaram-Kaushik&layout=compact&theme=tokyonight" alt="Top languages" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kanikaram-Kaushik&theme=tokyonight" alt="Languages Card" width="48%" />
   </a>
 </p>
